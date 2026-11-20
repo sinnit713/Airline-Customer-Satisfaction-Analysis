@@ -1,8 +1,6 @@
 # Airline-Customer-Satisfaction-Analysis
 Exploratory data analysis, statistical hypothesis testing and logistic regression for airline customer satisfaction using R.
 
-# Airline Customer Satisfaction Analysis
-
 ## Project Overview
 
 This project examines the factors associated with airline customer satisfaction using exploratory data analysis, statistical hypothesis testing and logistic regression in R.

@@ -41,6 +41,8 @@ airline-customer-satisfaction-analysis/
 │   ├── 03_inflight_entertainment_satisfaction.png
 │   ├── 04_checkin_service_satisfaction.png
 │   └── 05_travel_class_satisfaction.png
+├── outputs/
+│   └── .gitkeep
 │
 └── README.md
 ```

@@ -79,19 +79,19 @@ The R analysis script is available in the `R/` directory. The dataset is stored 
 ## Visualisations
 
 ### 1. Customer Satisfaction Distribution
-![Satisfaction Distribution](visualisations/01_satisfaction_distribution.png)
+![Customer Satisfaction Distribution](visualisations/Distribution%20of%20Customer%20Satisfaction.png)
 
 ### 2. Seat Comfort and Satisfaction
-![Seat Comfort](visualisations/02_seat_comfort_satisfaction.png)
+![Seat Comfort](visualisations/Seat%20Comfort%20Ratings%20by%20Satisfaction.png)
 
 ### 3. Inflight Entertainment and Satisfaction
-![Inflight Entertainment](visualisations/03_inflight_entertainment_satisfaction.png)
+![Inflight Entertainment](visualisations/Inflight%20Entertainment%20Ratings%20by%20Satisfaction.png)
 
 ### 4. Check-in Service and Satisfaction
-![Check-in Service](visualisations/04_checkin_service_satisfaction.png)
+![Check-in Service](visualisations/Customer%20Satisfaction%20by%20Check-in%20Service%20Rating.png)
 
 ### 5. Travel Class and Satisfaction
-![Travel Class](visualisations/05_travel_class_satisfaction.png)
+![Travel Class](visualisations/Customer%20Satisfaction%20by%20Travel%20Class.png)
 
 ## Author
 
